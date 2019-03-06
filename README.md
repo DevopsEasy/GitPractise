@@ -1,0 +1,2 @@
+# GitPractise
+Git basi comands 
